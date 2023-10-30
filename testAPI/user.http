@@ -1,0 +1,11 @@
+http://localhost:8989/user
+
+###
+
+POST http://localhost:8989/user
+content-type: application/json
+
+{
+  "caption": "arcadiy",
+  "description": "STG"
+}
